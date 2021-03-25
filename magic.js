@@ -1,7 +1,7 @@
 let username='jesudas';
 username ?console.log(`hello, ${username}!`):console.log('Hello!');
-let userQuestion="What is magic eight ball";
-console.log(`${userQuestion} asked by ${username}`);
+let userQuestion="What is the pharse value of 8 in the magic eight ball";
+console.log(`${userQuestion} wasked by ${username}`);
 let randomNumber;
 randomNumber=Math.floor(Math.random()*8);
 console.log(randomNumber);
